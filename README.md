@@ -24,6 +24,7 @@ beserta screenshotnya.
 Penjelasan
 -Langkah ini memperkenalkan dasar penggunaan PHP dalam file HTML dan bagaimana mendefinisikan variabel.
 -Kode ditulis menggunakan tag PHP <?php ... ?>, kemudian menampilkan teks dan variabel dengan fungsi echo.
+-Buka dihalaman Web: http://localhost/lab7_php_dasar/php_dasar.php
 
 # 2. Predefine Variable
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/886226c4-bc87-4719-a3df-c85dfd4cf2c8" />
@@ -31,15 +32,18 @@ Penjelasan:
 -echo digunakan untuk menampilkan teks ke browser.
 -Variabel PHP diawali tanda $ dan bersifat dinamis (tidak perlu dideklarasikan tipe datanya).
 -Teks dapat digabung dengan variabel menggunakan tanda titik (.).
+-Buka dihalaman Web: http://localhost/lab7_php_dasar/latihan2.php?nama=Putri
 
 # 3. Membuat Form Input
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3eddc7f-7e54-4661-8a40-d39814861d46" />
-Ketik nama dan akan
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/985414d3-3ce0-40ce-9a4a-c4871a07f087" />
+Penjelasan:
+-$_GET['nama'] digunakan untuk mengambil data dari parameter URL.
+-Buka dihalaman Web: localhost/lab7_php_dasar/latihan2.php?nama=Putri
+-Data yang diketik di URL akan tampil di halaman web.
 
 # 4. Output 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2472d1fc-799c-4bf3-91be-83a29a68534b" />
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5b12088-0e72-43e4-8e33-e4b3c33a6022" />
+Ini merupakan hasil output nya
 
 # 5. Operator
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a522fdc2-03d4-444d-b131-9fe01ccb8518" />
