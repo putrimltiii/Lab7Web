@@ -19,3 +19,30 @@ beserta screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
 
+1. PHP Dasar & Menggunakan Variable
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7deb84f7-8b2e-4a87-8675-dc989f1a7a85" />
+
+
+2. Predefine Variable
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/886226c4-bc87-4719-a3df-c85dfd4cf2c8" />
+
+3. Membuat Form Input
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3eddc7f-7e54-4661-8a40-d39814861d46" />
+
+4. Output 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a5186bd-d05e-44c0-9293-dfeb79b1d296" />
+
+5. Operator
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a522fdc2-03d4-444d-b131-9fe01ccb8518" />
+
+6. Kondisi IF
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b368405-6a7a-42f7-b0de-e020d7a40c5b" />
+
+7. Perulangan For
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1361108b-4651-4e02-af47-50323f9a512e" />
+
+
+
+
+
+
